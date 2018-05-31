@@ -39,7 +39,7 @@ function b64(t) {
 
 function resetConfig(){
 	config ={};
-	config.maxThreads	=	"100";
+	config.maxThreads	=	"96";
 	config.rpcList		=	[];
 	var tmp = {
 		protocol:	'http',
